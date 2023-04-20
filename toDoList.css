@@ -1,0 +1,64 @@
+body{
+    background-color: #8f4df7 !important;
+}
+h1{
+    letter-spacing: 5px;
+}
+/* button{
+    background-color: dodgerblue;
+    border-radius: 50%;
+    border: none;
+    padding: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+    color: yellow;
+    cursor: pointer;
+    transition: 0.3s;
+}
+button:hover{
+    background-color: black;
+    color: yellow;
+}
+
+/* input{
+    border-radius: 10%;
+    padding: 20px;
+} */
+
+div{
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+    width: 20%;
+    border-radius: 2%;
+}
+
+/* table{
+    margin: 20px auto;
+}
+
+table th{
+    background-color: red;
+    width: 200px;
+    color: white;
+}
+table tr{
+    background-color: #ccc;
+    width: 200px;
+    color: red;
+    text-align: center;
+}
+table td{
+    padding:5px;
+} */
+img{
+    cursor: not-allowed;
+}
+
+.line{
+    text-decoration: line-through;
+}
+
+.active{
+    cursor: pointer;
+}
